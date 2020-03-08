@@ -1,4 +1,4 @@
-Project - DFU Detection and Visualization
+# Project - DFU Detection and Visualization
 
 ## This file contains documentation for Visualization.m file.
 
@@ -35,7 +35,7 @@ For better visualization of X and Y Pressure Components, different views can be 
 			   el: elevation angles	
 
 
-## To save the video file VisualizeToVideo.m can be used.
+To save the video file VisualizeToVideo.m can be used.
 	
 
 
