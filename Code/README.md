@@ -1,4 +1,4 @@
-Project: DFU Detection and Visualization
+# Project: DFU Detection and Visualization
 
 ## This file contains documentation for RoboFoot_LSTM.m
 
