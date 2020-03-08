@@ -6,8 +6,9 @@ Two Functions are defined at the bottom of the scripts:
 
 1.  filter():
 
-	arguments: x              # x is training set
-	return: f 		  # f is preprocessed data with considering only important features.	 	
+	arguments: x           (x is training set)
+	
+	return: f 	       (f is preprocessed data with considering only important features)	 	
 
 
 2.  ReadData(): 
