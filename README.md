@@ -17,6 +17,12 @@ able to:
 
 Differentiate (and classify) healthy and diseased foot profiles (we will make model feet with different mechanical properties / shapes to represent this)
 
+# Architechture
+
+In this research, we have proposed a Bidirectional LSTM (Long Short Term Memory) network 
+for this binary classification. LSTM network is most suitable model for this 
+dataset as it allows sequence data as an input, and make prediction based 
+on the individual time steps of sequence data.
 
 # Acknowledgement
 
