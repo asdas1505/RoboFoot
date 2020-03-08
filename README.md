@@ -16,3 +16,8 @@ analyse the ‘load maps’ obtained from these sensory systems. In particular, 
 able to:
 
 Differentiate (and classify) healthy and diseased foot profiles (we will make model feet with different mechanical properties / shapes to represent this)
+
+
+# Acknowledgement
+
+I would like to thank Prof. Peter Culmer, University of Leeds for the Testing dataset.
