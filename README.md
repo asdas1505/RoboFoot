@@ -26,4 +26,4 @@ on the individual time steps of sequence data.
 
 # Acknowledgement
 
-I would like to thank Prof. Peter Culmer, University of Leeds for the Testing dataset.
+I would like to thank Prof. Peter Culmer, University of Leeds for the guidance.
