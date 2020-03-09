@@ -26,4 +26,4 @@ on the individual time steps of sequence data.
 
 # Acknowledgement
 
-I would like to thank Prof. Peter Culmer, University of Leeds for the guidance.
+I would like to thank Dr. Peter Culmer, University of Leeds for guiding me throughout my internship at SurgTech Lab, University of Leeds.
